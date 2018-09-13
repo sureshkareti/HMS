@@ -9,6 +9,6 @@ namespace HMS.Controllers
 {
     public class HomeController : ApiController
     {
-
+        
     }
 }
