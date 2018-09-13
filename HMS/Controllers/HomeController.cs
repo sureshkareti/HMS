@@ -9,6 +9,10 @@ namespace HMS.Controllers
 {
     public class HomeController : ApiController
     {
-        
+        // GET api/values/5  
+        public string Get(int id)
+        {
+            return "id";
+        }
     }
 }
